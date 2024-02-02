@@ -1,4 +1,4 @@
-import Input from "../../components/Input";
+import Input from "../../Components/Input/Input.jsx";
 import "./Price.css";
 
 const Price = ({ handleChange }) => {
