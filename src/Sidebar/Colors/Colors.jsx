@@ -1,5 +1,5 @@
 import "./Colors.css";
-import Input from "../../Components/Input/Input.jsx";
+import Input from "../../Components/Input.jsx";
 
 const Colors = ({ handleChange }) => {
   return (

@@ -1,5 +1,5 @@
 import "./Category.css";
-import Input from "../../Components/Input/Input.jsx";
+import Input from "../../Components/Input.jsx";
 
 function Category({ handleChange }) {
   return (
